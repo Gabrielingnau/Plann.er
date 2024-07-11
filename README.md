@@ -38,10 +38,8 @@ npm run dev
 
 ### 🚧 Running the BackEnd (server)
 
-```bash
 # Download from the repository
-$https://github.com/mewerton/FoodExplorer_BackEnd
-```
+[BackEnd](https://github.com/Gabrielingnau/Plann.er-BackEnd)
 
 ## 🛠️ Built with
 
