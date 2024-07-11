@@ -6,7 +6,8 @@ Plan a trip with your friends using Plann.er
 
 ## 📝 Layout
 
-![Trip Planner Figma](https://www.figma.com/design/gb3JvH86aaJxOWaIQaMXnm/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)?node-id=3-376&m=dev)
+![Trip Planner Figma](./public/projeto.png)
+*[Trip Planner Figma](https://www.figma.com/design/gb3JvH86aaJxOWaIQaMXnm/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)?node-id=3-376&m=dev)
 
 ## 🚀 Starting
 
