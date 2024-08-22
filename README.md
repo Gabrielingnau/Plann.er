@@ -1,21 +1,21 @@
 # Plann.er
 
-## 💻 About:
+## 💻 Sobre:
 
-Plan a trip with your friends using Plann.er
+Planeje uma viagem com seus amigos usando Plann.er
 
 ## 📝 Layout
 
-![Trip Planner Figma](./public/projeto.png)
-*[Trip Planner Figma](https://www.figma.com/design/gb3JvH86aaJxOWaIQaMXnm/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)?node-id=3-376&m=dev)
+![Planejador de viagens Figma](./public/projeto.png)
+*[Planejador de viagens Figma](https://www.figma.com/design/gb3JvH86aaJxOWaIQaMXnm/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)?node-id=3-376&m=dev)
 
-## 🚀 Starting
+## 🚀 Começo
 
-These instructions will allow you to obtain a copy of the working project on your local machine for development and testing purposes.
+Essas instruções permitirão que você obtenha uma cópia do projeto de trabalho em sua máquina local para fins de desenvolvimento e teste.
 
-### 🔧 Installation
+### 🔧 Instalação
 
-Inside the VsCode terminal write the following code
+Dentro do terminal VsCode, escreva o seguinte código
 
 ```
 git init
@@ -24,29 +24,29 @@ git init
 ```
 git clone https://github.com/Gabrielingnau/My-Portfolio
 ```
-Then intade the dependencies with
+Em seguida, insira as dependências com
 
 ```
 npm install
 ```
 
-Then just run the project with
+Depois é só rodar o projeto com
 
 ```
 npm run dev
 ```
 
-### 🚧 Running the BackEnd (server)
+### 🚧 Executando o back-end (servidor)
 
-# Download from the repository
+# Entre nesse link para saber as instruções de como baixar o back-end em sua maquina
 [BackEnd](https://github.com/Gabrielingnau/Plann.er-BackEnd)
 
-## 🛠️ Built with
+## 🛠️ Construído com
 
-* [React.js](https://react.dev/) - The library for user interfaces
-* [Vite](https://vitejs.dev/) - FrontEnd Tool
-* [Typescript](https://www.typescriptlang.org/) - Syntax for types
+* [React.js](https://react.dev/) - A biblioteca para interfaces de usuário
+* [Vite](https://vitejs.dev/) - Ferramenta para FrontEnd
+* [Typescript](https://www.typescriptlang.org/) - Sintaxe para tipos
 * [Tailwind](https://tailwindcss.com/) - CSS 
 
 ---
-⌨️ with ❤️ by [Gabriel Lingnau](https://www.linkedin.com/in/gabriel-lingnau-3bb17b266/) 😊
+⌨️ com ❤️ por [Gabriel Lingnau](https://www.linkedin.com/in/gabriel-lingnau-3bb17b266/) 😊
